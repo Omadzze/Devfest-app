@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4285F6</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">@color/speaker_location</color>
+    <color name="onBoardText">#000000</color>
+    <color name="colorDivider">#000000</color>
+    <color name="tag">#959393</color>
+    <color name="bg_activities">#1C1C1C</color>
+
+    //Slider color
+    <color name="indicator_active">#EB4235</color>
+    <color name="indicator_inactive">#F3F3F3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#4285F6</color>
+
+    //Main menu
+    <color name="colorYellow">#F9BB04</color>
+    <color name="colorGreen">#109D58</color>
+    <color name="colorBlue">#4285F6</color>
+    <color name="colorRed">#EC4235</color>
+
+    <color name="textColor">@color/colorDivider</color>
+    <color name="background_menu">#312F2F</color>
+    <color name="speaker_item">#312F2F</color>
+
+    //Speakers
+    <color name="speaker_location">#CDCDCD</color>
+    <color name="speaker_description">#9C9C9C</color>
+
+    //spekaer info
+    <color name="speaker_info_title">@color/black</color>
+
+    //faq
+    <color name="faq_title">#131313</color>
+    <color name="faq_question">@color/speaker_location</color>
+    <color name="faq_answer">@color/speaker_description</color>
+
+</resources>

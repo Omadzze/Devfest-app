@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">DevFest</string>
+
+    //Slider Activity
+    <string name="skip">Skip</string>
+    <string name="welcome_to_GDG">Welcome to GDG</string>
+    <string name="gdg_description">GDGs are focused on community building and learning about Google’s technologies</string>
+
+    <string name="devfest_community">Devfest Community</string>
+    <string name="devfest_description">DevFests are community-led developer events hosted by Google Developer Groups around the globe</string>
+    <string name="get_started">Get Started</string>
+
+    //Main menu
+    <string name="agenda">Agenda</string>
+    <string name="speakers">Speakers</string>
+    <string name="location">Locate Us</string>
+    <string name="about">About Us</string>
+    <string name="register">Register</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="home">Home</string>
+    //share
+    <string name="share_description">Here you can download app</string>
+    <string name="share_url">https://github.com/Omadzze</string>
+
+    //Agenda
+    <string name="cloud">Cloud</string>
+    <string name="mobile">Mobile</string>
+    <string name="web">Web &amp; more</string>
+
+    <string name="angular_elements">Angular Elements</string>
+    <string name="max_saltonstail">Max SaltonStail</string>
+    <string name="tag">Google Cloud Platform Workshop</string>
+
+    <string name="time_long">30 Mins</string>
+    <string name="time">9:00 AM</string>
+
+    //Spekaers
+    <string name="speaker_name">Adrian Kajda</string>
+    <string name="speaker_location">Warsaw, Poland</string>
+    <string name="speaker_description">One big and misplaced misconception about entrepreneurship is that one will become an instant success.</string>
+    <string name="please_try_again">Error occurred. Please try again later</string>
+    <string name="no_link">No link provided</string>
+
+    //speaker info
+    <string name="speaker_info_name">By Adrian Kajda in Applause</string>
+    <string name="speaker_info_title">Code Monkey</string>
+    <string name="speaker_info_description">Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)</string>
+
+    //no internet
+    <string name="no_internet">No Internet Connection. \nPlease try again</string>
+    <string name="error">Error occurred</string>
+
+    //FAQ
+    <string name="general">General</string>
+    <string name="stay_informed">Stay Informed</string>
+    <string name="stay_informedDescr">To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the DevFest website, RSVP on Meetup and follow us on Facebook and Twitter. You can also follow and join the social conversation about GDG DevFest Ukraine via official hashtags #dfua and #Devfest18.</string>
+    <string name="content_formats">Content Formats</string>
+    <string name="content_formDescr">During two conference days, attendees will be able to attend sessions and hands-on workshops, chat with experts and attendees at coffee breaks and after-party, and more.</string>
+    <string name="livestream">Livestream &amp; Recordings</string>
+    <string name="livestreamDescr">If you’re unable to attend DevFest in-person, you can still be part of the magic. All the lectures from the sessions will be available for free on GDG Lviv youtube channel a few weeks after the conference. Workshops won’t be recorded. Also, there could be a live stream provided by participants which you can find via #dfua and #Devfest18 hashtags.</string>
+    <string name="press_ticket">Press Tickets</string>
+    <string name="press_ticketDescr">We’ll be offering a limited number of press passes to qualified members of the media. To submit a request, please fill out this FORM. If you have additional questions, please email devfest@gdg.org.ua for more information. Please note that we’ll have a limited number of press-passes available and will be vetting requests. Filling out the form doesn’t guarantee you a press pass.</string>
+    <string name="badges">Badges &amp; Badge Pick-up</string>
+    <string name="badgesDescr">To expedite the check-in process, we’ll begin badge pick-up on Thursday, October 11, (location will be published). Make sure to bring your ticket along with student/lecturer ID (for EDU tickets), as we’ll need to verify it prior to assigning you your GDG DevFest Ukraine badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.</string>
+    <string name="smoking">Smoking</string>
+    <string name="smokingDecr">Smoking is only permitted in designated outdoor smoking areas.</string>
+    <string name="afterParty">Afterparty</string>
+    <string name="afterPartyDescr">All registered attendees are invited to the afterparty on the evenings of October 12th. The conference badges will be required for entry. Please join us for food, drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over.</string>
+</resources>

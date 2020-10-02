@@ -1,0 +1,171 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="nightMode">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:src">@drawable/ic_crescent_moon_phase</item>
+    </style>
+
+    <style name="shareButton">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:src">@drawable/ic_share</item>
+    </style>
+
+    <style name="backButton">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:src">@drawable/ic_back</item>
+    </style>
+
+    <style name="tRexImage">
+        <item name="android:layout_width">140dp</item>
+        <item name="android:layout_height">140dp</item>
+        <item name="android:layout_marginTop">150dp</item>
+        <item name="android:src">@drawable/trex</item>
+        <item name="android:visibility">invisible</item>
+    </style>
+
+
+    <style name="skipText" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfpro_semibold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="sliderTitle" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfpro_semibold</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="sliderDescription" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="getStarted" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfpro_semibold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="appBarTitle" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="agendaTitle" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="agendaPresenter" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="agendaTag" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/tag</item>
+    </style>
+
+    <style name="agendaTimeLong" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="agendaTime" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">8sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="speakersName" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="speakersLocation" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/speaker_location</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="speakersDescription" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/speaker_description</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="speakerNameInfo" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/raleway_regular</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="speakerTitleInfo" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/comfortaa_bold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/speaker_info_title</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="speakerDescriptionInfo" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/comfortaa_regular</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/speaker_info_title</item>
+        <item name="android:lineSpacingExtra">4dp </item>
+    </style>
+
+    <style name="noInternetText" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginTop">32dp</item>
+        <item name="android:layout_marginEnd">16sp</item>
+        <item name="android:visibility">invisible</item>
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="faqTitle" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/faq_title</item>
+    </style>
+
+    <style name="faqQuestion" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/faq_question</item>
+    </style>
+
+    <style name="faqAnswer" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/faq_answer</item>
+        <item name="lineSpacing">5dp</item>
+    </style>
+
+</resources>
