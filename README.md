@@ -13,3 +13,14 @@ _In order to use this app you need to follow these steps_.
 Also Agenda, Speakers, Register, Sponsors, Location, FAQ have been added to the application
 
 ## Screenshots
+![image](https://firebasestorage.googleapis.com/v0/b/devfest-22ece.appspot.com/o/main.jpg?alt=media&token=dc495525-c87e-4eba-8e65-cc4e4b588d34)
+![image](https://firebasestorage.googleapis.com/v0/b/devfest-22ece.appspot.com/o/mainDark.jpg?alt=media&token=4bf0e892-da99-4064-939c-e98107d29b13)
+
+![image](https://firebasestorage.googleapis.com/v0/b/devfest-22ece.appspot.com/o/agenda.jpg?alt=media&token=00939378-68a6-4602-892e-1a4bdfe4c980)
+![image](https://firebasestorage.googleapis.com/v0/b/devfest-22ece.appspot.com/o/agendaDark.jpg?alt=media&token=2eb7356a-53b0-4963-a57e-2a95a89509d9)
+![image](https://firebasestorage.googleapis.com/v0/b/devfest-22ece.appspot.com/o/speakers.jpg?alt=media&token=1ab9336b-b44e-41bd-bfe6-e678e064075e)
+![image](https://firebasestorage.googleapis.com/v0/b/devfest-22ece.appspot.com/o/speakersDark.jpg?alt=media&token=0329bcc7-771b-450a-aac1-5a29c0a9643f)
+![image]()
+![image](https://firebasestorage.googleapis.com/v0/b/devfest-22ece.appspot.com/o/sponsorsDark.jpg?alt=media&token=76be6892-817f-478b-877e-6aee03cfa146)
+![image](https://firebasestorage.googleapis.com/v0/b/devfest-22ece.appspot.com/o/map.jpg?alt=media&token=dadab001-648e-419f-8e2b-3d8a66e9a8e3)
+![image](https://firebasestorage.googleapis.com/v0/b/devfest-22ece.appspot.com/o/mapDark.jpg?alt=media&token=c3b46709-2009-4d48-b77d-162483012689)
