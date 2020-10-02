@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972503227489",
+    "firebase_url": "https://devfest-22ece.firebaseio.com",
+    "project_id": "devfest-22ece",
+    "storage_bucket": "devfest-22ece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972503227489:android:b15c342f9f379ec02a1e20",
+        "android_client_info": {
+          "package_name": "com.example.devfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972503227489-mqef1llm2fsre09fu8rjee66qqsdth4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDURDkdhGP0iAYYNzPE4MVo3adNIdrPskY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972503227489-mqef1llm2fsre09fu8rjee66qqsdth4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
